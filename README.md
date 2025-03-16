@@ -9,7 +9,7 @@ and for each tutorial/workshop/studio, it creates a PDF file with the headshots 
 Steps to use:
 1. Download an xls of your class from allocate. Select only the tutorials/workshops/studios/whatever, and then select 'Class List'.
 2. Download the headshots for your couse from my.uq.edu.au -> 'My Courses' -> Select course -> 'In Person', and 'Student headshots'. Download the zip file
-3. Run this script using:  python3 headshots.py <course classlist>.xls <headshots zip file>
+3. Run this script using:  python3 headshots.py course_classlist.xls headshots_zip_file.zip
 
 ## Example
 
